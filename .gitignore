@@ -6,7 +6,7 @@
 .rake_test_cache
 .rvmrc
 .rbenv-version
-
+#okay
 # Emacs
 *~
 \#*\#
